@@ -8,7 +8,7 @@ Models implemented :
 * LSTM POS tagger
 * BiLSTM (Homemade and from PyTorch)
 * Stacked layers of BiLSTM
-* + XLM pre-trained embeddings
+* \+ XLM pre-trained embeddings
 
 Dependencies :
 
