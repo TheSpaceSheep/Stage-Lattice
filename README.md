@@ -11,9 +11,9 @@ Models implemented :
 
 Dependencies :
 
-* [Pytorch][https://pytorch.org/]
-* [XLM][https://github.com/facebookresearch/XLM]
-* [FastBPE][https://github.com/facebookresearch/XLM/tree/master/tools#fastbpe]
+* [Pytorch](https://pytorch.org/)
+* [XLM](https://github.com/facebookresearch/XLM)
+* [FastBPE](https://github.com/facebookresearch/XLM/tree/master/tools#fastbpe)
 
 Results :
 Some results are given in the internship report given in this repository.
