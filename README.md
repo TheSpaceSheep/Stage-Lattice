@@ -1,4 +1,4 @@
-# Lattice Internship
+# Lattice Internship (Stage Lattice)
 
 PyTorch implementation of several models for Part-Of-Speech tagging.
 
